@@ -47,9 +47,7 @@ I recently worked on a **group project, [Cybrella](https://cybrella.in/)**, a te
 ---
 
 ### 📊 GitHub Stats
-![Lincoln's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lincoln-Laishram&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lincoln-Laishram&layout=compact&theme=radical)
+![Lincoln's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lincoln-Laishram&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lincoln-Laishram&layout=compact&theme=radical)
 
 ---
 
