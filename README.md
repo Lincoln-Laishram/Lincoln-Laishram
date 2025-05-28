@@ -60,7 +60,7 @@ I’ve built multiple fullstack applications, including:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lincoln-Laishram&show_icons=true&theme=radical&count_private=true&hide=issues&custom_title=Lincoln%27s%20GitHub%20Stats" />
 </a>
 <a href="https://github.com/Lincoln-Laishram">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lincoln-Laishram&layout=compact&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lincoln-Laishram&layout=compact&theme=radical&hide=html"/>
 </a>
 
 ---
