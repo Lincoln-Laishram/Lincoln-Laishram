@@ -63,12 +63,6 @@ I’ve built multiple fullstack applications, including:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lincoln-Laishram&layout=compact&theme=radical&hide=html" />
 </a>
 
-> Tip: If the top languages still show HTML, consider adding a `.gitattributes` file with:
-> ```gitattributes
-> * linguist-vendored
-> public/* linguist-vendored
-> ```
-
 ---
 
 ### 📬 Connect with Me
