@@ -2,7 +2,7 @@
 
 ### 🚀 Fullstack Web Developer | Backend Lover | Database Lover 
 
-<img src="https://i.pinimg.com/originals/8f/38/ab/8f38ab8eeadb926c788a4d17ec3321fc.gif" style="width: 100%; max-width: 600px; height: auto;" alt="Lincoln's Banner"/>
+<img src="https://i.pinimg.com/originals/8f/38/ab/8f38ab8eeadb926c788a4d17ec3321fc.gif" style="max-width: 500px; height: auto;" alt="Lincoln's Banner"/>
 
 ---
 
@@ -13,7 +13,6 @@ I'm **Lincoln Laishram**, a dedicated fullstack developer skilled in **React, Ta
 I’ve built multiple fullstack applications, including:
 
 - 🎮 [**Kezz Official**](https://www.kezzofficial.in) – A Mobile Legends top-up website handling **instant game recharges**.
-- 🏥 [**Clinic Registration System**](https://registration-system-henna.vercel.app/) – A site to register, update, or cancel clinic appointments. Built with fellow developer [**Bimesh Wangkheimayum**](https://github.com/Westttttttt).
 - 📝 [**Cret - Drawing App**](https://cret.netlify.app/) – A feature-rich drawing app with intuitive tools (updates in progress!).
 
 ---
@@ -38,27 +37,10 @@ I’ve built multiple fullstack applications, including:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-### 🌟 Featured Projects
-
-- **[kezzofficial.in](https://kezzofficial.in)**  
-  Recharge Mobile Legends instantly with competitive pricing and sleek UI.
-
-- **[Clinic Registration System](https://registration-system-henna.vercel.app/)**  
-  A smart way to manage patient appointments in clinics.
-
-- **[Cret - Drawing App](https://cret.netlify.app/)**  
-  Digital canvas with pen, eraser, and page navigation — optimized for both mobile and desktop.
-
----
 
 ### 📊 GitHub Stats
 
-<!-- These settings improve language detection and stats accuracy -->
-<a href="https://github.com/Lincoln-Laishram">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lincoln-Laishram&show_icons=true&theme=radical&count_private=true&hide=issues&custom_title=Lincoln%27s%20GitHub%20Stats" />
-</a>
+
 <a href="https://github.com/Lincoln-Laishram">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lincoln-Laishram&layout=compact&theme=radical&hide=html"/>
 </a>
@@ -71,17 +53,4 @@ I’ve built multiple fullstack applications, including:
 
 ---
 
-### 🎮 Fun Fact
-
-I’m a **gamer and designer** at heart — I love turning imagination into interaction ✨
-
-<img src="https://i.pinimg.com/originals/e8/ab/42/e8ab4228cd7f08ed3ef210188b3d2467.gif" width="400" alt="Gaming"/>
-
----
-
-### 🎯 My Goal
-
-To become a **top-tier fullstack developer**, work on impactful projects, and build solutions that matter.
-
----
 
