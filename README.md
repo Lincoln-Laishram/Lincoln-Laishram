@@ -2,7 +2,7 @@
 
 ### 🚀 Fullstack Web Developer | Backend Lover | Database Lover 
 
-<img src="https://i.pinimg.com/originals/a9/5f/bf/a95fbf5fd7e085056e801f5d15a903b8.gif" style="width: 100%; max-width: 700px; height: auto;" alt="Lincoln's Banner"/>
+<img src="https://i.pinimg.com/originals/8f/38/ab/8f38ab8eeadb926c788a4d17ec3321fc.gif" style="width: 100%; max-width: 600px; height: auto;" alt="Lincoln's Banner"/>
 
 ---
 
