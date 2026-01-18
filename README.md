@@ -1,8 +1,8 @@
 ## 👋 Hi there, I'm Lincoln Laishram
 
-### 🚀 Fullstack Web Developer | Passionate Coder | Gamer at Heart
+### 🚀 Fullstack Web Developer | Backend Lover | Database Lover 
 
-<img src="https://giffiles.alphacoders.com/223/223167.gif" style="width: 100%; max-width: 700px; height: auto;" alt="Lincoln's Banner"/>
+<img src="[https://giffiles.alphacoders.com/223/223167.gif](https://i.pinimg.com/originals/a9/5f/bf/a95fbf5fd7e085056e801f5d15a903b8.gif)" style="width: 100%; max-width: 700px; height: auto;" alt="Lincoln's Banner"/>
 
 ---
 
