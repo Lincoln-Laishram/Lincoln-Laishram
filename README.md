@@ -13,7 +13,7 @@ I'm **Lincoln Laishram**, a dedicated fullstack developer skilled in **React, Ta
 I’ve built multiple fullstack applications, including:
 
 - 🎮 [**Kezz Official**](https://www.kezzofficial.in) – A Mobile Legends top-up website handling **instant game recharges**.
-- 📝 [**Cret - Drawing App**](https://cret.netlify.app/) – A feature-rich drawing app with intuitive tools (updates in progress!).
+- 📝 [**Cret - Drawing App**](https://cret.netlify.app/) – Browser based animation tool with features like onion canvas, custom cursor and animation controller.(UI for phone device is kinda messy for now. Update in progress)
 
 ---
 
