@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Lincoln Laishram
 
-### 🚀 Fullstack Web Developer | Backend Lover | Database Lover 
+### 🚀 Fullstack Developer(Web Application) | Backend Lover | Database Lover 
 
 <img src="https://i.pinimg.com/originals/8f/38/ab/8f38ab8eeadb926c788a4d17ec3321fc.gif" style="max-width: 500px; height: auto;" alt="Lincoln's Banner"/>
 
@@ -52,5 +52,10 @@ I’ve built multiple fullstack applications, including:
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laishramlincoln82@gmail.com)
 
 ---
+### View my resume 🗄 
+[My Resume](https://drive.google.com/file/d/16wsLF6Pacg5BXj-i2c_75noaIogcfpnD/view?usp=drive_link)
+
+## View demo videos 📽
+[My videos](https://docs.google.com/document/d/15zbUBY-FIMtktXgVnlOYIyR_iw2r4k9iPbTYoxMDP5Q/edit?usp=sharing)
 
 
