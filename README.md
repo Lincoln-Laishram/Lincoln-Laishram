@@ -8,7 +8,7 @@
 
 ### 💻 About Me
 
-I'm **Lincoln Laishram**, a dedicated fullstack developer skilled in **React, Tailwind CSS, Express.js, MongoDB, and MySQL**. Currently, I'm deepening my expertise in **backend development with Express and MongoDB**.
+I'm **Lincoln Laishram**, a dedicated fullstack developer skilled in **React, Tailwind CSS, Express.js, and MySQL**. Currently, I'm deepening my expertise in **backend development with Express and MongoDB**.
 
 I’ve built multiple fullstack applications, including:
 
@@ -29,7 +29,6 @@ I’ve built multiple fullstack applications, including:
 #### **Backend & Database**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### **Dev Tools**
