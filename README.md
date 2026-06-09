@@ -52,7 +52,7 @@ I’ve built multiple fullstack applications, including:
 
 ---
 ### View my resume 🗄 
-[My Resume](https://drive.google.com/file/d/16wsLF6Pacg5BXj-i2c_75noaIogcfpnD/view?usp=drive_link)
+[My Resume](https://docs.google.com/document/d/1jkMVjCXW9x6JDP0sPpP5LMAwjn8NnReIFAXpTQ-Zi5Y/edit?usp=sharing)
 
 ## View demo videos for KezzOfficial📽
 [My videos](https://docs.google.com/document/d/15zbUBY-FIMtktXgVnlOYIyR_iw2r4k9iPbTYoxMDP5Q/edit?usp=sharing)
